@@ -32,18 +32,5 @@ def run():
             ctx['workflow'] = a.args.workflow
             func(**ctx)
 
-    # Create content for GitHub
-    # files = {
-    #     "summary.txt": summary,
-    #     "draft_email.txt": email
-    # }
-
-    # post_to_github(
-    #     repo="username/repo-name",
-    #     token="ghp_your_github_token",
-    #     files=files,
-    #     commit_message="Add job summary and email draft"
-    # )
-
 if __name__ == "__main__":
     run()

@@ -3,12 +3,12 @@ summarize:
   context_file: job_description.txt
   output: true
 email:
-  prompt: Rewrite the following email in the style of the provided voice examples.\n\nEmail:\n
+  prompt: Rewrite the following email using Paul Golding's voice examples as reference.\n\nEmail:\n
   multishot_prompt: Voice examples from Paul Golding for style:\n
   context_file: email.txt
   multishot_file: voice_samples.txt
   output: true
-push_to_github:
-  context:
-    - summarize
-    - email
+# push_to_github:
+#   context:
+#     - summarize
+#     - email
