@@ -25,7 +25,7 @@ Here is a sample agentic workflow config file (`test.yaml`):
 step1:
   prompt: [write prompt here]
   context_file: [context that the prompt can reference. located under workflows/test/]
-  output: [true if output should be saved to workflows/test/outputs/]
+  output: [true if output should be saved to workflows/test/outputs/step1.txt]
 step2:
   prompt: [write prompt here]
   context_file: [context for the prompt]
