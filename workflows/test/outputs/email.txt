@@ -1,104 +1,125 @@
-Here are the rewritten emails in the style of Paul Golding:
+Here are the rewritten email examples in the style of Paul Golding:
 
-Email 1:
+**Email 1: The Manifold Web**
+
 Dear Sir or Madam,
 
-I'm excited to apply my skills in computational linguistics and mathematics to your team as the Vibe Coder-in-Residence position.
+I've been following your company's endeavors and I'm excited to apply my skills in computational linguistics and mathematics to your team as the Vibe Coder-in-Residence. My expertise in semantics and generative grammar has led me to believe that I'd be a great addition to your innovative team.
 
-My resume, which highlights my knowledge in NLP and machine learning, is enclosed. I've led several projects that have successfully deployed machine learning solutions, including ETL pipelines and backend systems.
+My resume, which highlights my knowledge in NLP and machine learning, provides evidence of my ability to deliver results-driven solutions in a fast-paced environment. I've successfully led NLP and analytics projects, architected ETL pipelines, and deployed 8 machine learning projects to production with minimal issues.
 
-I'm passionate about transforming raw data into actionable insights that power intelligent products. I thrive at the intersection of language, analytics, and real-world impact.
-
-I'd love to discuss my qualifications in more detail. Thank you for considering my application.
+I'd be delighted to review my qualifications in more detail and explore opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is confident and enthusiastic, with a hint of competitiveness. He's passionate about his skills and experience, and he's not afraid to showcase them.
+**Email 2: The Agentic Web**
 
-Email 2:
-The Agentic Web is Here!
-This paper presents a technical discussion on the evolution of the web to an "agentic web," where autonomous AI agents powered by LLMs act directly to plan, coordinate, and execute complex tasks.
+Dear Sir or Madam,
 
-Contrasting with traditional human web interactions, these agents delegate intent and turn passive information consumption into dynamic goal-driven automation. This new paradigm has significant implications for our understanding of intelligence and computation.
+I've been following the advancements in AI and web development, particularly the evolution of the "agentic web." As someone with a strong background in computational linguistics and mathematics, I'm intrigued by the potential for autonomous AI agents to power intelligent products.
 
-I'm excited about the potential applications of this technology and I believe it could revolutionize many areas of our lives.
+My experience working on projects such as machine learning pipelines and backend systems has equipped me to contribute to the development of innovative solutions. I'm excited about the prospect of collaborating with your team and exploring new approaches to harnessing the power of artificial intelligence.
 
-Thank you for considering my application!
+I'd be thrilled to discuss my qualifications further and explore potential opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is optimistic and enthusiastic, with a hint of excitement. He sees the potential benefits of the agentic web and is eager to apply his skills in this new paradigm.
+**Email 3: AI as Innovation Agent**
 
-Email 3:
-AI as Innovation Agent
-I'm interested in all kinds of AI agents, particularly those that can solve complex problems without human intervention. These agents have the potential to revolutionize many industries.
+Dear Sir or Madam,
 
-What are the "hard" problems that AI can solve, and how do they differ from human intelligence? I'd love to discuss this further with you.
+I've been following the exciting developments in AI research, particularly the work on agent-based systems. As someone with a strong background in computational linguistics and mathematics, I'm impressed by the potential of autonomous AI agents to solve complex problems.
+
+My experience working on projects such as natural language processing and machine learning has equipped me to contribute to the development of innovative solutions. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is curious and inquiring, with a hint of skepticism. He's interested in exploring the potential of AI agents and wants to understand their capabilities before applying his skills.
+**Email 4: Context Degradation**
 
-Email 4:
-Context Degradation is a Problem
-There are many challenges associated with using longer context in machine learning models, including decreased performance and increased complexity.
+Dear Sir or Madam,
 
-I've conducted research on this topic and found that some current approaches have limitations. I'd love to discuss my findings with you and explore potential solutions.
+I've been following the latest research on AI context degradation, particularly the work on implicit layers. As someone with a strong background in computational linguistics and mathematics, I'm intrigued by the potential of novel architectures for AI systems.
+
+My experience working on projects such as deep learning and neural networks has equipped me to contribute to the development of innovative solutions. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is analytical and objective, with a hint of frustration. He sees the challenges associated with longer context in machine learning models and wants to understand their implications before applying his skills.
+**Email 5: Work in Robotics Foundation Models**
 
-Email 5:
-Work in Robotics Foundation Models
-I'm excited about my current role at ADI, where I work on novel advancements in robotics foundation models and generalist policies for deep reinforcement learning.
+Dear Sir or Madam,
 
-We're using a range of techniques, including transfer learning and domain adaptation, to improve the performance of our models. I'd love to discuss my experience with you and explore potential applications in robotics.
+I've been following your company's endeavors in robotics foundation models, particularly the work on ADI Edge AI. As someone with a strong background in computational linguistics and mathematics, I'm excited to contribute my skills to this innovative field.
+
+My experience working on projects such as deep learning and neural networks has equipped me to deliver high-quality results in fast-paced environments. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is professional and enthusiastic, with a hint of pride. He sees himself as an expert in his field and wants to share his knowledge with others.
+**Email 6: Implicit Layers**
 
-Email 6:
-Why I'm Passionate about Edge AI
-I've recently joined ADI as the lead of our Edge AI team, where we're working on novel advancements in robotics foundation models and generalist policies for deep reinforcement learning.
+Dear Sir or Madam,
 
-I'm passionate about this work because it has the potential to revolutionize many areas of our lives. We're making significant progress, but there's still much to be done.
+I've been following the latest research on AI implicit layers, particularly the work on Deep Equilibrium Nets (DEQ). As someone with a strong background in computational linguistics and mathematics, I'm impressed by the potential of novel architectures for AI systems.
 
-Thank you for considering my application!
+My experience working on projects such as deep learning and neural networks has equipped me to contribute to the development of innovative solutions. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is enthusiastic and professional, with a hint of humility. He sees himself as part of a larger team working on complex challenges, but wants to stay focused on the excitement of the project.
+**Email 7: Diffusion as Projection**
 
-Email 7:
-Implicit Layers
-At ADI in our Edge AI group, we're exploring new architectures that are optimal for power and size constraints. One such possibility is implicit layers.
+Dear Sir or Madam,
 
-This architecture has the potential to dramatically reduce network size while still maintaining useful performance. I'd love to discuss my findings with you and explore potential applications.
+I've been following the latest research on AI diffusion models, particularly the work on "Interpreting and Improving Diffusion Models from an Optimization Perspective." As someone with a strong background in computational linguistics and mathematics, I'm intrigued by the potential of novel approaches to natural language processing.
+
+My experience working on projects such as deep learning and neural networks has equipped me to deliver high-quality results in fast-paced environments. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is analytical and objective, with a hint of curiosity. He wants to share his knowledge with others and understand their implications before applying his skills.
+**Email 8: Work in Edge AI**
 
-Email 8:
-Diffusion as Projection
-Just finished a paper I hadn't seen before – "Interpreting and Improving Diffusion Models from an Optimization Perspective" (arXiv 2306.04848).
+Dear Sir or Madam,
 
-The authors show that a denoiser is approximately a projector: it learns the vector that pulls a noisy point straight back to the data manifold.
+I've been following your company's endeavors in edge AI, particularly the work on ADI Edge AI. As someone with a strong background in computational linguistics and mathematics, I'm excited to contribute my skills to this innovative field.
 
-Viewing DDIM as plain gradient descent on squared Euclidean distance makes the reverse-diffusion story more intuitive than the usual score-matching view.
-
-I'd love to discuss my findings with you and explore potential applications in machine learning.
+My experience working on projects such as deep learning and neural networks has equipped me to deliver high-quality results in fast-paced environments. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
 
 Regards,
+
 Arnold Wikey
 
-Voice style: Arnold Wikey's tone is analytical and thoughtful, with a hint of excitement. He wants to share his knowledge with others and understand their implications before applying his skills.
+**Email 9: A Survey of AI Agent Protocols**
+
+Dear Sir or Madam,
+
+I've been following the latest research on AI agent protocols, particularly the work on "5 things that stood out to me about this report." As someone with a strong background in computational linguistics and mathematics, I'm impressed by the potential for novel approaches to AI systems.
+
+My experience working on projects such as natural language processing and machine learning has equipped me to contribute to the development of innovative solutions. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
+
+Regards,
+
+Arnold Wikey
+
+**Email 10: A Survey of AI Agent Protocols (Revised)**
+
+Dear Sir or Madam,
+
+I've been following the latest research on AI agent protocols, particularly the work on "Protocol Evaluation and Comparison." As someone with a strong background in computational linguistics and mathematics, I'm intrigued by the potential for novel approaches to AI systems.
+
+My experience working on projects such as deep learning and neural networks has equipped me to deliver high-quality results in fast-paced environments. I'd be delighted to discuss my qualifications further and explore opportunities for collaboration.
+
+Regards,
+
+Arnold Wikey

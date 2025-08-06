@@ -2,38 +2,42 @@ Here is a summary of the job description:
 
 **Job Title:** Vibe Coder-in-Residence (GenAI Tech EA)
 
-**Company:** Analog Devices, Inc.
+**About the Role:**
 
-**Location:** San Jose, CA, USA or Limerick, Ireland (remote work possible)
+The Vibe Coder-in-Residence is an engineer who will work alongside the VP of Edge AI to automate and optimize various workflows using GenAI technology. The role requires expertise in GenAI frameworks, rapid development with micro-site builders like LangChain and MCP, and storytelling.
 
-**Job Description:**
+**Key Responsibilities:**
 
-The company is looking for a talented engineer to join their team as a Vibe Coder-in-Residence. The ideal candidate will be responsible for:
+1. Observe and Automate workflows to identify areas for improvement.
+2. Create automated workflows that reduce repetition tasks.
+3. Scale up workflows by composing multiple agents together.
+4. Externalize Vibe's workflow to evangelize it to the team and media.
+5. Develop a public demo or open-source repository for best agents.
 
-1. Observing meetings and automating repetitive tasks using Micro-Agents.
-2. Scaling up the workflow by composing agents, instrumentation with telemetry, and building micro-sites.
-3. Externalizing the solution through evangelization, package best agents as internal templates, and producing a public demo or open-sourced repo.
-4. Fine-tuning personal-style LLMs and mult-agent fabrics to draft briefs and strategic emails.
+**Daily Responsibilities:**
 
-**Responsibilities:**
-
-* Live-code GenAI agents in Python/TypeScript
-* Fine-tune and orchestrate LLMs (OpenAI, Claude, local models)
-* Rapid-fire prompt engineering
-* Integrate with enterprise APIs (Teams, Confluence, Office)
-* Maintain a "metrics or it didn't happen" dashboard
+1. Live-code GenAI agents in Python/TypeScript.
+2. Fine-tune and orchestrate LLMs using LangChain, OpenAI, and other frameworks.
+3. Optimize system prompts for Vibe's agents.
+4. Integrate with enterprise APIs (Teams, Confluence, Office).
+5. Maintain a dashboard to track metrics on workflow adoption.
 
 **Requirements:**
 
-* Mastery of GenAI and agent frameworks (LangChain, MCP etc.)
-* Rapid full-stack micro-site builder (e.g. Vercel)
-* Comfortable pair-programming or pair-prompting in a fast-moving exec environment
-* Storytelling chops to convert changelog into headlines
-* Time zone flexibility (San Jose/CASZ, Limerick/EIRE)
+1. Experience in shipping GenAI products.
+2. Mastery of GenAI and agent frameworks like LangChain, MCP, etc.
+3. Rapid full-stack micro-site builder skills (e.g., Vercel).
+4. Comfortable pairing-programming or pair-prompting in a fast-moving executive environment.
 
 **Nice-to-Haves:**
 
-* Experience with reverse-engineering personal workflows or building AI copilots
-* Familiarity with range of productivity hacks and how to code them as agents
-* Prior startup founding engineer or hacker-in-residence cred
-* Familiarity with enterprise security & compliance for LLM rollouts.
+1. Experience with reverse-engineering personal workflows or building AI copilots.
+2. Familiarity with range of productivity hacks and coding as agents.
+3. Prior startup founding engineer experience (doesn't matter if company succeeded) or hacker-in-residence cred.
+4. Familiarity with enterprise security & compliance for LLM rollouts.
+
+**Success Metrics:**
+
+1. ≥ 5 production agents live by day 30.
+2. ≥ 30% reduction in VP calendar load by day 90.
+3. ≥ 2 external media features or conference demos by month 6.
