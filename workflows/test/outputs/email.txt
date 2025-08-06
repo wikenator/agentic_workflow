@@ -1,0 +1,104 @@
+Here are the rewritten emails in the style of Paul Golding:
+
+Email 1:
+Dear Sir or Madam,
+
+I'm excited to apply my skills in computational linguistics and mathematics to your team as the Vibe Coder-in-Residence position.
+
+My resume, which highlights my knowledge in NLP and machine learning, is enclosed. I've led several projects that have successfully deployed machine learning solutions, including ETL pipelines and backend systems.
+
+I'm passionate about transforming raw data into actionable insights that power intelligent products. I thrive at the intersection of language, analytics, and real-world impact.
+
+I'd love to discuss my qualifications in more detail. Thank you for considering my application.
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is confident and enthusiastic, with a hint of competitiveness. He's passionate about his skills and experience, and he's not afraid to showcase them.
+
+Email 2:
+The Agentic Web is Here!
+This paper presents a technical discussion on the evolution of the web to an "agentic web," where autonomous AI agents powered by LLMs act directly to plan, coordinate, and execute complex tasks.
+
+Contrasting with traditional human web interactions, these agents delegate intent and turn passive information consumption into dynamic goal-driven automation. This new paradigm has significant implications for our understanding of intelligence and computation.
+
+I'm excited about the potential applications of this technology and I believe it could revolutionize many areas of our lives.
+
+Thank you for considering my application!
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is optimistic and enthusiastic, with a hint of excitement. He sees the potential benefits of the agentic web and is eager to apply his skills in this new paradigm.
+
+Email 3:
+AI as Innovation Agent
+I'm interested in all kinds of AI agents, particularly those that can solve complex problems without human intervention. These agents have the potential to revolutionize many industries.
+
+What are the "hard" problems that AI can solve, and how do they differ from human intelligence? I'd love to discuss this further with you.
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is curious and inquiring, with a hint of skepticism. He's interested in exploring the potential of AI agents and wants to understand their capabilities before applying his skills.
+
+Email 4:
+Context Degradation is a Problem
+There are many challenges associated with using longer context in machine learning models, including decreased performance and increased complexity.
+
+I've conducted research on this topic and found that some current approaches have limitations. I'd love to discuss my findings with you and explore potential solutions.
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is analytical and objective, with a hint of frustration. He sees the challenges associated with longer context in machine learning models and wants to understand their implications before applying his skills.
+
+Email 5:
+Work in Robotics Foundation Models
+I'm excited about my current role at ADI, where I work on novel advancements in robotics foundation models and generalist policies for deep reinforcement learning.
+
+We're using a range of techniques, including transfer learning and domain adaptation, to improve the performance of our models. I'd love to discuss my experience with you and explore potential applications in robotics.
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is professional and enthusiastic, with a hint of pride. He sees himself as an expert in his field and wants to share his knowledge with others.
+
+Email 6:
+Why I'm Passionate about Edge AI
+I've recently joined ADI as the lead of our Edge AI team, where we're working on novel advancements in robotics foundation models and generalist policies for deep reinforcement learning.
+
+I'm passionate about this work because it has the potential to revolutionize many areas of our lives. We're making significant progress, but there's still much to be done.
+
+Thank you for considering my application!
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is enthusiastic and professional, with a hint of humility. He sees himself as part of a larger team working on complex challenges, but wants to stay focused on the excitement of the project.
+
+Email 7:
+Implicit Layers
+At ADI in our Edge AI group, we're exploring new architectures that are optimal for power and size constraints. One such possibility is implicit layers.
+
+This architecture has the potential to dramatically reduce network size while still maintaining useful performance. I'd love to discuss my findings with you and explore potential applications.
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is analytical and objective, with a hint of curiosity. He wants to share his knowledge with others and understand their implications before applying his skills.
+
+Email 8:
+Diffusion as Projection
+Just finished a paper I hadn't seen before – "Interpreting and Improving Diffusion Models from an Optimization Perspective" (arXiv 2306.04848).
+
+The authors show that a denoiser is approximately a projector: it learns the vector that pulls a noisy point straight back to the data manifold.
+
+Viewing DDIM as plain gradient descent on squared Euclidean distance makes the reverse-diffusion story more intuitive than the usual score-matching view.
+
+I'd love to discuss my findings with you and explore potential applications in machine learning.
+
+Regards,
+Arnold Wikey
+
+Voice style: Arnold Wikey's tone is analytical and thoughtful, with a hint of excitement. He wants to share his knowledge with others and understand their implications before applying his skills.

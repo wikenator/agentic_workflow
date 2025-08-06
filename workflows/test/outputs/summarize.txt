@@ -1,0 +1,39 @@
+Here is a summary of the job description:
+
+**Job Title:** Vibe Coder-in-Residence (GenAI Tech EA)
+
+**Company:** Analog Devices, Inc.
+
+**Location:** San Jose, CA, USA or Limerick, Ireland (remote work possible)
+
+**Job Description:**
+
+The company is looking for a talented engineer to join their team as a Vibe Coder-in-Residence. The ideal candidate will be responsible for:
+
+1. Observing meetings and automating repetitive tasks using Micro-Agents.
+2. Scaling up the workflow by composing agents, instrumentation with telemetry, and building micro-sites.
+3. Externalizing the solution through evangelization, package best agents as internal templates, and producing a public demo or open-sourced repo.
+4. Fine-tuning personal-style LLMs and mult-agent fabrics to draft briefs and strategic emails.
+
+**Responsibilities:**
+
+* Live-code GenAI agents in Python/TypeScript
+* Fine-tune and orchestrate LLMs (OpenAI, Claude, local models)
+* Rapid-fire prompt engineering
+* Integrate with enterprise APIs (Teams, Confluence, Office)
+* Maintain a "metrics or it didn't happen" dashboard
+
+**Requirements:**
+
+* Mastery of GenAI and agent frameworks (LangChain, MCP etc.)
+* Rapid full-stack micro-site builder (e.g. Vercel)
+* Comfortable pair-programming or pair-prompting in a fast-moving exec environment
+* Storytelling chops to convert changelog into headlines
+* Time zone flexibility (San Jose/CASZ, Limerick/EIRE)
+
+**Nice-to-Haves:**
+
+* Experience with reverse-engineering personal workflows or building AI copilots
+* Familiarity with range of productivity hacks and how to code them as agents
+* Prior startup founding engineer or hacker-in-residence cred
+* Familiarity with enterprise security & compliance for LLM rollouts.
