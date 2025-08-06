@@ -1,0 +1,101 @@
+Post 1:
+The Manifold is The Message
+We’re entering the era of The Manifold Web—where GenAI systems like ChatGPT will shape expectations for “universal intelligence” by projecting all of reality onto the high-dimensional space where LLMs operate.
+Any digital service or physical product that remains invisible to ChatGPT—unable to be mapped usefully into this latent space—will rapidly become obsolete, quaint relics existing outside of the manifold.
+The new competitive reality: If ChatGPT can’t see it, or make sense of it, then it doesn’t exist.
+This visibility imperative is driving two fundamental shifts: intelligence must be embedded everywhere (not just in flagship products, but even in the tiniest of widgets), and the race to autonomy will accelerate dramatically. 
+IoT is dead. Welcome IoE—Internet of Embeddings.
+Soon, even the humble sensor will become an embedded scribe, a conscious participant in its own representation, quietly jotting its notes onto the manifold’s margin.
+In the Clayton Christensen sense, products will no longer be “hired” only to perform specific functions—but hired to make themselves productive within ChatGPT, projecting themselves into a navigable embedding-space where other autonomous systems (agents) can find, understand, and orchestrate them. Product owners are only just catching up.
+The Manifold Web isn’t about searchability, but legibility in its broadest sense. 
+Google’s original mission—“to organize the world’s information and make it universally accessible”—now reads like a quaint artifact from the card catalog era.
+Has there been a more exciting time in the history of information technology?
+Companies slow to understand this shift—they too risk becoming invisible, slipping outside the manifold.
+
+Post 2:
+The Agentic Web: Visionary Outlook, but Needs Better Metaphors
+This paper offers a technical discussion of the evolution of the web to an “agentic web”, contrasting with the “PC” and “Mobile” web -- the authors seem unaware of the Web 1 and 2 paradigms, as these might have offered a better basis for framing the evolution. 
+They attempt to define "Agentic Web" as new web era/paradigm where autonomous AI agents powered by LLMs act directly to plan, coordinate, and execute complex tasks. Unlike traditional human web interactions, these agents delegate intent and turn what was previously passive information consumption into dynamic goal-driven automation (p. 4).
+They argue for the rise of an "Agent Attention Economy": just as early websites competed for user clicks, the new web ecosystem involves services competing for “agent attention,” with agents autonomously selecting and invoking tools based on dynamic criteria and rankings (p. 13). This sounds plausible, but I think the attention metaphor is a bit clumsy here and doesn’t lead to a useful understanding of how agents will actually prioritize actions or manage resource constraints. The authors might have explored alternative metaphors.
+Algorithmic Transitions: They mention three fundamental shifts:
+1. From Search to Autonomous Retrieval: Agents proactively acquire relevant content, adapting contextually to changing goals and environments.
+2. From Recommendation to Agent Planning: Recommendations evolve into complex multi-step agentic workflows. (I think this lacks intellectual rigor and is more due to their insistence on characterizing “Mobile Web” as a “web of recommendation”.)
+3. From Single-Agent to Multi-Agent Coordination: Systems scale through agent collaboration, negotiation, and distributed intelligence (p. 21). Not too hard to imagine.
+Of course, they are obliged to mention security & governance concerns: agent-driven interactions create new systemic risks etc. For example, agents might autonomously execute unauthorized transactions. Managing these risks will require dynamic red-teaming and adaptive guardrails (p. 41-42).
+They also attempt to describe an "Agentic Web Infrastructure". They propose that the traditional client-server model evolves into a Client-Agent-Server architecture. Key components include demand-skill mapping, real-time task routing, and cross-agent billing ledgers, enabling sophisticated, context-aware, and economically viable agentic services (p. 27). This is all hand-wavy stuff. But made me think of how these architectural battles are going to be won -- I guess YC hopes the winners will be one of their “10-person 100B start-ups”.
+
+Post 3:
+AI as Innovation Agent
+I’m interested in all kinds of AI agents. 
+Sure, where consistency and repetition matter, unpredictable errors are undesirable. 
+But in some cases, complaining that AI agents fail some % of the time is like complaining that most experiments fail - we only need to strike gold once. I’m very interested in these kinds of agents, often overlooked. 
+What are the “hard” problems that AI can solve, beyond human intuition? In a hardcore engineering company, with lots of world class product lines, this is of great interest. 
+How far do things like the METR 50% task time, or the ARC prize, scale to “hard” engineering problems?
+If you’re interested to research such questions, let me know. We’re building AI to obsolete some of today’s key engineering constraints.
+
+Post 4:
+Context Degradation is [Still] a Problem
+Perhaps we’ve been fooled into thinking that longer-context tools, like Gemini, are capable of better responses. But longer context is still problematic. It turns out that many of the things we thought were fixed, aren’t…. 
+New research from Chroma (the vector DB folks) shows that even state-of-the-art models with million-token context windows suffer performance degradation as input length increases—even for simple tasks!!!
+Key findings across 18 models:
+- Performance drops are non-linear - Accuracy degrades unpredictably as context grows
+- Semantic similarity matters - When questions don’t closely match relevant content, performance degrades faster
+- Structure paradox - Models performed better on randomly shuffled text than logically ordered content
+- Failure modes differ - Claude abstains when uncertain whereas GPT confidently hallucinates!
+- Distractors compound problems - Related-but-wrong information degrades performance non-uniformly. Consider the sensitivity of this in the case of, say, processing logs for anomalies.
+In other words, simply throwing more context at a problem isn’t the solution. Strategic context engineering—selecting what to include and how to structure it—remains critical. Prompt/context engineering (and input pre-processing) is far from dead.
+Consider “AI Scientists” (e.g. like v2 AI Scientist by Sakana) that generate science papers by first analyzing research: If context degradation affects how models process experimental records, we risk silent biases or missed connections. Academic writing structure itself might hinder performance — this clearly needs systematic evaluation.
+Bigger context windows are a tool, but not a solution. Success requires thoughtful context design, not context dumps.
+
+Post 5:
+Work in the hottest field of AI: robotics foundation models…
+Help shape the robotics frontier via our ADI Edge AI team based in Limerick, but accepting applications remotely. 
+We’re working on novel advancements in robotics foundation models, generalist policies, RL, spatial AI, perception, SLAM, advanced physics modeling, including tactile sensing, and a range of related robotics R&D fields. 
+Our sensors and signal chains are second to none and we’re actively building a comprehensive digital and AI stack to deliver full robotics solutions to some of the worlds most demanding customers.
+
+Post 6:
+Why I’m passionate about Edge AI at Analog Devices
+One of the reasons I returned to Edge AI is the diverse technical challenges, particularly here at Analog Devices. 
+Resource constraints fuel our team’s creativity and drive innovative collaboration between some of the most talented AI engineers in the industry. It’s truly a privilege to work alongside such talent!
+Traditional approaches from LRM-world simply don’t translate to resource-constrained edge devices. Our global algorithms optimization team successfully leveraged knowledge distillation to harness large model capabilities, obtaining breakthrough few-shot learning for novel keyword detection. Our model surpasses state-of-the-art performance on key benchmarks.
+🎯 We’re growing our team! If you’re passionate about pushing the boundaries of what’s possible in Edge AI and want to solve real-world problems with cutting-edge technology, we want to hear from you.
+👉 Visit the ADI job board to explore opportunities and join our mission!
+
+Post 7:
+Implicit Layers
+At ADI in our Edge AI group, we are always looking for interesting architectures that are optimal for power and size constraints. One such possibility is implicit layers.
+There is a nice tutorial on implicit layers here --
+In many cases, the "rolling up" of traditional network layers into a recursive weight-tied system results in dramatically reduced network size (parameters) with results that are often within useful range of SOTA. 
+The system back-propagates through the equilibrium points of multiple feature resolutions simultaneously, using implicit differentiation to avoid storing intermediate states (requiring only O(1) memory consumption)
+One application is Deep Equilibrium Nets (DEQ). I found a use case for sound separation with 30% reduction in parameters. The authors swap out the sequence model of Open-Unmix (UMX) and replace with a DEQ --
+Of course, such findings -- and approaches -- are of interest for physical-edge AI applications.
+The never-ending pool of architectural possibilities for AI systems is so vast that it's hard to figure out where to pay attention. In our group, we plan to tackle this using .... no surprises .... AI. Hope to post something soon.
+
+Post 8:
+Diffusion as Projection 
+Just finished a paper I hadn’t seen before — “Interpreting and Improving Diffusion Models from an Optimization Perspective” (arXiv 2306.04848). Caught it after watching Russ Tedrake’s talk on dexterous manipulation with diffusion policies.
+The authors show that a denoiser is *approximately* a projector: it learns the vector that pulls a noisy point straight back to the data manifold (i.e., the low-dimensional surface where real data lives—from images to robot action policies).
+Viewing DDIM as plain gradient descent on squared Euclidean distance makes the reverse-diffusion story more intuitive than the usual score-matching view.
+
+Post 9:
+Yes 👇
+Detailed initial instruction pays!
+“I keep telling devs to spend time preparing those initial instructions. Prompt engineering is important.”
+And (sometimes or)—ask the LLM to reply initially with clarifying questions. Often works well. 
+And Wall St Journal declared: “Prompt engineering is dead”. And so did a prominent VC that prides itself on “AI insights”.
+
+Post 10:
+A Survey of AI Agent Protocols
+5 things that stood out to me about this report:
+⚪ Agent Internet Ecosystem
+Here is what the layered architecture of the agent internet ecosystem looks like as it stands. It shows different layers, like the Agent Internet, the Protocol Layer, and the Application Layer.
+⚪ Timeline
+The report provides an overview of LLMs, the agent frameworks, agent protocols, and popular applications from 2019 till now. It's not complete, but it provides a rough overview of the progress. It's still early days for agents, and stronger LLMs and protocols are key.
+⚪ Overview
+Overview of popular agent protocols that include MCP and A2A, among others. It also shows who proposed it, the application scenarios, and key techniques used. Many are still under development, and some are conceptual.
+⚪ Protocol Evaluation and Comparison
+The paper also summarizes considerations essential for the effective design and assessment of LLM agent protocols. When scaling agentic systems, protocols need to be efficient, scalable, and secure, among other important dimensions.
+⚪ Use Case Analyses
+I like this example from the report that shows how an agentic system could look when applying the different protocols and key architectural differences.
+We are very early in designing good protocols that would enable scalable and secure agentic systems and robust communication infrastructures for agents. 
+This work provides a nice discussion on current progress, but you will quickly realize from reading it that there is a long way to go.

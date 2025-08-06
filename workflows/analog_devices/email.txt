@@ -1,0 +1,17 @@
+Dear Sir or Madam,
+
+This letter is to express my interest in the Vibe Coder-in-Residence position I found listed on LinkedIn.
+Based on my skills in computational linguistics and mathematics, I am confident that I would be a great addition to your team.
+
+My resume which highlights my knowledge in NLP and machine learning is enclosed.
+I specialize in semantics and generative grammar and have a strong track record of delivering machine learning solutions.
+I have led NLP and analytics projects, architected ETL pipelines and backend systems, and deployed 8 machine learning projects to production in my career.
+I’m passionate about transforming raw data into actionable insights that power intelligent products, and I thrive at the intersection of language, analytics, and real-world impact.
+
+I am excited about working for your company and the ability to help your company succeed.
+Thank you in advance for your time.
+I would appreciate the opportunity to review my qualifications in more detail.
+
+Regards,
+
+Arnold Wikey
