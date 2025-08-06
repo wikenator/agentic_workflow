@@ -29,6 +29,7 @@ def run():
         if 'context' in a.workflow[act]:
             func = getattr(actions, act)
             ctx = {c: a.outputs[c] for c in a.workflow[act]['context']}
+            ctx['workflow'] = a.args.workflow
             func(**ctx)
 
     # Create content for GitHub
