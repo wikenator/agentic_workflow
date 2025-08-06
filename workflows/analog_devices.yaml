@@ -8,7 +8,7 @@ email:
   context_file: email.txt
   multishot_file: voice_samples.txt
   output: true
-# push_to_github:
-#   context:
-#     - summarize
-#     - email
+push_to_github:
+  context:
+    - summarize
+    - email
