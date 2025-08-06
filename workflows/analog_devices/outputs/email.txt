@@ -1,0 +1,82 @@
+Here's the rewritten email with Paul Golding's voice examples as reference:
+
+Dear Sir or Madam,
+
+This letter is to express my interest in the Vibe Coder-in-Residence position I found listed on LinkedIn.
+
+Based on my skills in computational linguistics and mathematics, I am confident that I would be a great addition to your team. My resume highlights my knowledge in NLP and machine learning, including expertise in semantic analysis and generative grammar. I've led several successful projects, including NLP and analytics initiatives that have resulted in significant improvements in data processing.
+
+I'm passionate about transforming raw data into actionable insights that drive intelligent products and processes. As a seasoned professional, I've worked with various technologies, including Big Data platforms and cloud-based services, to optimize performance and scalability. My expertise extends beyond mere technical skills, and I possess excellent communication and problem-solving abilities.
+
+However, I want to share my thoughts on the current landscape of artificial intelligence (AI) and machine learning (ML). In my experience, there are two distinct paradigms: The Manifold Web and Agentic Web. The former is characterized by a high-dimensional space where AI systems can learn from data directly; conversely, the latter involves embedding AI agents within various products to make them more relatable and user-friendly.
+
+The current trend towards Edge AI has been quite impressive, with many companies leveraging this technology to create innovative products. However, I've noticed that some of these projects are struggling to keep pace with advancements in artificial intelligence. There's a need for better architectures, protocols, and optimization techniques that can scale edge devices efficiently.
+
+One area of concern is the diffusion process, which involves projecting data into a lower-dimensional space using denoising models like Diffusion Models (DDIM). My experience suggests that this approach, while intuitive, has its limitations. I've observed that simply adding more layers to a model may not be enough; we need to carefully design and optimize these architectures to achieve optimal results.
+
+In conclusion, I believe my skills and experience make me an ideal candidate for the Vibe Coder-in-Residence position. However, it's essential to acknowledge the challenges and limitations of current AI and ML technologies. I look forward to contributing my expertise and insights to help drive innovation in this field.
+
+Regards,
+
+Arnold Wikey
+
+Voice examples from Paul Golding:
+
+Post 1:
+The Manifold is The Message
+We're entering an era where GenAI systems like ChatGPT will shape expectations for "universal intelligence" by projecting all of reality onto the high-dimensional space where LLMs operate. This phenomenon is reminiscent of the concept of the manifolds in topology, which describe a complex network of curves and surfaces.
+
+The idea that AI systems can learn from data directly has led to significant advancements in various fields, including edge AI. However, there's still much to be explored in this area.
+
+Post 2:
+The Agentic Web: Visionary Outlook, but Needs Better Metaphors
+This paper offers a technical discussion of the evolution of the web to an "agentic web," contrasting with the "PC" and "Mobile" web. The authors propose that we need better metaphors to describe this new paradigm.
+
+One example is the concept of a "Manifold Web," where AI systems can learn from data directly, much like how the internet learns to navigate and connect users. This analogy highlights the importance of designing architectures and protocols that facilitate communication between machines.
+
+Post 3:
+AI as Innovation Agent
+I'm interested in all kinds of AI agents, including those that can improve upon existing models through gradient descent on squared Euclidean distance.
+
+One example is the use of model distillation to harness large model capabilities for novel keyword detection. This approach leverages knowledge distillation to optimize performance without sacrificing training time.
+
+Post 4:
+Context Degradation: [Still] a Problem
+I've noticed that longer-context models tend to degrade in performance, which may not be due to the model itself but rather the context it's being trained on.
+
+This observation is reminiscent of the concept of implicit layers, where traditional network layers are replaced with recursive weight-tied systems that significantly reduce network size and improve efficiency.
+
+Post 5:
+Work in the Hottest Field: Robotics Foundation Models
+I'm excited to apply my skills to novel advancements in robotics foundation models. The ADI Edge AI team is working on various projects, including generalist policies, RL, spatial AI, perception, SLAM, advanced physics modeling, and tactile sensing.
+
+This work has significant implications for the development of more robust and efficient edge devices.
+
+Post 6:
+Why I'm Passionate about Edge AI at Analog Devices
+I returned to Edge AI at ADI due to the diverse technical challenges and innovative collaborations between talented AI engineers. Our global algorithms optimization team successfully leveraged knowledge distillation to harness large model capabilities for breakthrough few-shot learning, achieving state-of-the-art performance on key benchmarks.
+
+Post 7:
+Implicit Layers: A Tutorial
+At ADI, we're exploring novel architectures that enable efficient scaling of agentic systems. One approach is using implicit layers, which project data into a lower-dimensional space using diffusion models like Diffusion Models (DDIM).
+
+We've applied this technique to various applications, including sound separation and deep equilibrium nets.
+
+Post 8:
+Diffusion as Projection
+Just finished a paper on "Interpreting and Improving Diffusion Models from an Optimization Perspective" (arXiv 2306.04848). This work demonstrates that denoiser models like DDIM can be viewed as approximate projectors, projecting noisy data back onto the data manifold.
+
+This analogy highlights the importance of understanding how to design better architectures and protocols for AI systems.
+
+Post 9:
+Yes 👇
+Detailed Initial Instruction Pays!
+"I keep telling devs to spend time preparing those initial instructions. Prompt engineering is important."
+
+This approach is reminiscent of my experience in designing better architectures for edge devices, where clear instructions and optimization techniques are essential for achieving optimal performance.
+
+Post 10:
+A Survey of AI Agent Protocols
+5 things that stood out from this report include the Agent Internet Ecosystem architecture, timeline, overview, protocol evaluation, and use case analyses. This work provides a comprehensive discussion on current progress in AI agent protocols.
+
+One area of concern is the diffusion process, which involves projecting data into a lower-dimensional space using denoising models like DDIM. My experience suggests that this approach has its limitations; we need to carefully design and optimize these architectures to achieve optimal results.

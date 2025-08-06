@@ -1,0 +1,29 @@
+The Vibe Coder-in-Residence (GenAI Tech EA) position at Analog Devices is a unique opportunity for a talented engineer to work on developing intelligent edge AI solutions, particularly with GenAI (Generalized Attention Mechanism). Here's a summary of the job description:
+
+**Key Responsibilities:**
+
+1. **Automate and Pair-shadow meetings**: Observe VP of Edge AI meetings and automate tasks using micro-agents, while also pairing with teams to improve workflows.
+2. **Scale and Compose systems**: Develop scalable systems by chaining agents together and instrumenting with telemetry.
+3. **Externalize and Evangelize**: Package best agents as internal templates, produce public demos or open-sourced repositories, and partner with communications for media drops.
+4. **Fine-tune LLMs and develop digital twins**: Use fine-tuned LLMs to draft briefs, emails, and articles that are indistinguishable from the VP's work.
+5. **Live-code GenAI agents in Python/TypeScript**: Write technical blogs and demo scripts with Comms to amplify the story.
+
+**Must-haves:**
+
+1. Mastery of GenAI and agent frameworks (e.g., LangChain, MCP)
+2. Rapid full-stack micro-site builder skills
+3. Comfortable pair-programming or pair-prompting in a fast-moving executive environment
+
+**Nice-to-haves:**
+
+1. Experience with personal workflow reverse-engineering or building AI copilots
+2. Familiarity with productivity hacks and coding them as agents
+3. Prior startup founding engineer experience (or hacker-in-residence cred)
+
+**Success Metrics:**
+
+1. ≥ 5 production agents live by day 30
+2. ≥ 30% reduction in VP calendar load by day 90
+3. ≥ 2 external media features or conference demos by month 6
+
+Overall, the Vibe Coder-in-Residence role at Analog Devices requires a unique blend of technical expertise, creativity, and communication skills to develop intelligent edge AI solutions that drive impact across various industries.
